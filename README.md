@@ -2,6 +2,10 @@
 
 I'm **Andre Augusto**, a technical writer and software engineer from Brazil 🇧🇷 currently based in Thailand 🇹🇭
 
+My website showcases my [technical writing portfolio](https://www.thedaringwriter.net/portfolio) and helps you [get to know me](https://www.thedaringwriter.net/about) a little.
+
+I'd also love to connect with you on [LinkedIn](https://www.linkedin.com/in/valongueiro/).
+
 <!--
 **valongueiro/valongueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
