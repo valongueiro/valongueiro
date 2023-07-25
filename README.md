@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm **Andre Augusto**, a technical writer and software engineer from Brazil 🇧🇷 currently based in Thailand 🇹🇭
+
 <!--
 **valongueiro/valongueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
