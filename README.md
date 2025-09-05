@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Andre Valongueiro**, a software engineer from Brazil 🇧🇷 currently based in Thailand 🇹🇭
+I'm **André Valongueiro**, a software engineer from Brazil 🇧🇷 currently based in Thailand 🇹🇭
 
 I'd love to connect with you on [LinkedIn](https://www.linkedin.com/in/valongueiro/).
 
