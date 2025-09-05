@@ -2,7 +2,7 @@
 
 I'm **Andre Valongueiro**, a software engineer from Brazil 🇧🇷 currently based in Thailand 🇹🇭
 
-I'd also love to connect with you on [LinkedIn](https://www.linkedin.com/in/valongueiro/).
+I'd love to connect with you on [LinkedIn](https://www.linkedin.com/in/valongueiro/).
 
 <!--
 **valongueiro/valongueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
